@@ -1,5 +1,6 @@
 {
     "name": "ipimpat/vuestrap",
+    "description": "A Laravel 8 package that replaces Jetstream/Jetstrap's inertia stack view files with BootstrapVue based views.",
     "authors": [
         {
             "name": "Kim Henriksen",
